@@ -1,1 +1,1 @@
-# Human-posture-detection-with-Yolo-HRNet
+# Human-posture-detection-with-Yolo-HRNet(Run on CPU)
