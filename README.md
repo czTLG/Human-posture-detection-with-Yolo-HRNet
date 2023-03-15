@@ -1,6 +1,6 @@
 # Human-posture-detection-with-Yolo-HRNet(Run on CPU)
 ## 简介
-本项目是在学习[KuiperInfer](https://github.com/zjhellofss)深度学习推理框架之后，自行构建的基于CPU的深度学习推理系统，实现对于YOLO与HRNet模型的推理。
+本项目是在学习[KuiperInfer](https://github.com/zjhellofss)深度学习推理框架之后，自行构建的基于CPU的深度学习推理系统，实现对于YOLO与HRNet模型的人体姿态识别推理。
 
 *2023-3-10* 实现了dilated_convolution，preule，F.unsamplenearest等算子。
 
