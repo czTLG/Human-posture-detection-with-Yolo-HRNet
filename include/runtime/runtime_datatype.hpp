@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-12-23.
-//
 #ifndef KUIPER_INFER_INCLUDE_RUNTIME_RUNTIME_DATATYPE_HPP_
 #define KUIPER_INFER_INCLUDE_RUNTIME_RUNTIME_DATATYPE_HPP_
 /// 计算节点属性中的权重类型

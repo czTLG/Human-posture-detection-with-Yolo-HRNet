@@ -29,7 +29,7 @@ namespace kuiper_infer {
         // 静态函数RegisterCreator，用于注册Creator函数指针
         static std::shared_ptr <Layer> CreateLayer(const std::shared_ptr <RuntimeOperator> &op);
 
-// 静态函数Registry，返回CreateRegistry对象的引用
+        // 静态函数Registry，返回CreateRegistry对象的引用
         static CreateRegistry &Registry();
     };
 

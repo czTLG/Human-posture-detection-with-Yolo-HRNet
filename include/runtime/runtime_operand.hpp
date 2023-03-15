@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-28.
-//
-
 #ifndef KUIPER_INFER_INCLUDE_PARSER_RUNTIME_OPERAND_HPP_
 #define KUIPER_INFER_INCLUDE_PARSER_RUNTIME_OPERAND_HPP_
 #include <vector>
