@@ -12,11 +12,15 @@
 * 性能测试：Google Benchmark
 
 ## 安装过程
-1.安装必要环境
- <apt install cmake, openblas-devel, lapack-devel, arpack-devel, SuperLU-devel>
-2.下载并编译armadillo https://arma.sourceforge.net/download.html
-3.编译安装glog\google test\google benchmark
+1. 安装必要环境
+```shell
+ apt install cmake, openblas-devel, lapack-devel, arpack-devel, SuperLU-devel>
+```
+2. 下载并编译armadillo https://arma.sourceforge.net/download.html
+3. 编译安装glog\google test\google benchmark
 
 ## 致谢
 
 GitHub上最好的深度学习推理框架 https://github.com/zjhellofss/KuiperInfer/
+
+感谢：[zjhellofss](https://github.com/zjhellofss), [liuxubit](https://github.com/liuxubit), [Azusachan](https://github.com/Azusachan), [wfs2010](https://github.com/wfs2010), [mlmz](https://github.com/minleminzui)
