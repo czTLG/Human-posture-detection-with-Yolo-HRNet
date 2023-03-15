@@ -1,6 +1,4 @@
-//
-// Created by fss on 22-11-18.
-//
+
 #include "relu.hpp"
 #include "layer/abstract/layer_factory.hpp"
 

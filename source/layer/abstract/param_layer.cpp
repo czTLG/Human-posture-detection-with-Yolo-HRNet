@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-13.
-//
-
 #include "layer/abstract/param_layer.hpp"
 
 #include <glog/logging.h>

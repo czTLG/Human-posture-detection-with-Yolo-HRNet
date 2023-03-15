@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-11-13.
-//
 
 #include "softmax.hpp"
 #include <glog/logging.h>

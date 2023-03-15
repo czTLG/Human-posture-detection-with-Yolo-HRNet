@@ -1,7 +1,3 @@
-//
-// Created by fss on 23-1-5.
-//
-
 #ifndef KUIPER_INFER_DEMOS_IMAGE_UTIL_HPP_
 #define KUIPER_INFER_DEMOS_IMAGE_UTIL_HPP_
 #include<opencv2/opencv.hpp>

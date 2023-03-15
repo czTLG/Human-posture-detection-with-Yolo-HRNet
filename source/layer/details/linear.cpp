@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-11-13.
-//
 
 #include "linear.hpp"
 #include <glog/logging.h>

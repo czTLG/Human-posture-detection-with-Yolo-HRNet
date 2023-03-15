@@ -1,6 +1,4 @@
-//
-// Created by fss on 22-11-12.
-//
+
 
 #ifndef KUIPER_INFER_SOURCE_LAYER_AVGPOOLING_HPP_
 #define KUIPER_INFER_SOURCE_LAYER_AVGPOOLING_HPP_

@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-11-18.
-//
 
 #include "expression.hpp"
 #include "layer/abstract/layer_factory.hpp"

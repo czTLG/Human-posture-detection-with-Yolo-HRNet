@@ -1,6 +1,4 @@
-//
-// Created by fss on 22-11-13.
-//
+
 
 #ifndef KUIPER_INFER_SOURCE_LAYER_LINEAR_HPP_
 #define KUIPER_INFER_SOURCE_LAYER_LINEAR_HPP_

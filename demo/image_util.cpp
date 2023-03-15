@@ -1,6 +1,3 @@
-//
-// Created by fss on 23-1-5.
-//
 
 #include "image_util.hpp"
 

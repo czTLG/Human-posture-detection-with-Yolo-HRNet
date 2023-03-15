@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-17.
-//
-
 #include "layer/abstract/layer_factory.hpp"
 
 #include "runtime/runtime_ir.hpp"

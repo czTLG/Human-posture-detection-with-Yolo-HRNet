@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-12.
-//
-
 #ifndef KUIPER_INFER_DATA_BLOB_HPP_
 #define KUIPER_INFER_DATA_BLOB_HPP_
 #include <memory>
@@ -17,7 +13,7 @@ class Tensor<uint8_t> {
   // 待实现
 };
 
-template <>
+template <> //是一个特化的语法形式，它用于为特定的数据类型提供定制化的实现。主要实现了特定Tensor<float>
 class Tensor<float> {
  public:
   explicit Tensor() = default;

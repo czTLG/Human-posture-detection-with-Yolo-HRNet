@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-13.
-//
-
 #include "convolution.hpp"
 #include <glog/logging.h>
 #include "layer/abstract/layer_factory.hpp"

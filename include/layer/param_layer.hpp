@@ -1,7 +1,3 @@
-//
-// Created by fss on 22-11-13.
-//
-
 #ifndef KUIPER_INFER_SOURCE_LAYER_PARAM_LAYER_HPP_
 #define KUIPER_INFER_SOURCE_LAYER_PARAM_LAYER_HPP_
 #include "layer.hpp"

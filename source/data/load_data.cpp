@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-11-21.
-//
 #include "data/load_data.hpp"
 #include <string>
 #include <fstream>

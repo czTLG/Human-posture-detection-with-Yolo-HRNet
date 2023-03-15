@@ -1,6 +1,3 @@
-//
-// Created by fss on 22-11-15.
-//
 #include "layer/abstract/layer.hpp"
 namespace kuiper_infer {
 
