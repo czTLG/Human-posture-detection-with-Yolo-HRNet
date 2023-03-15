@@ -2,24 +2,6 @@
 ## 简介
 本项目是在学习[KuiperInfer](https://github.com/zjhellofss)深度学习推理框架之后，自行构建的基于CPU的深度学习推理系统，实现对于YOLO与HRNet模型的推理。
 
-## 已经支持的算子
-
-- Convolution 
-- AdaptivePooling 
-- MaxPooling 
-- Expression(抽象语法树)
-- Flatten, View(维度展平和变形)
-- Sigmoid 
-- HardSigmoid 
-- HardSwish 
-- ReLU
-- Linear(矩阵相乘)
-- Softmax 
-- BatchNorm
-- Upsample
-- SiLU
-- Concat
-
 *2023-3-10* 实现了dilated_convolution，preule，F.unsamplenearest等算子。
 
 ## 使用的技术和开发环境
