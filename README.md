@@ -5,11 +5,11 @@
 *2023-3-10* 实现了dilated_convolution，preule，F.unsamplenearest等算子。
 
 ## 使用的技术和开发环境
--开发语言：C++ 17
--数学库：Armadillo + OpenBlas
--加速库：OpenMP
--单元测试：Google Test
--性能测试：Google Benchmark
+* 开发语言：C++ 17
+* 数学库：Armadillo + OpenBlas
+* 加速库：OpenMP
+* 单元测试：Google Test
+* 性能测试：Google Benchmark
 
 ## 安装过程
 1.安装必要环境
